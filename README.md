@@ -1,0 +1,2 @@
+# picoruby_sample
+ラズパイピコとpicorubyで忘れ物防止システムをつくったもの
