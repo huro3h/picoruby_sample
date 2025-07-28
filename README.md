@@ -1,2 +1,2 @@
 # picoruby_sample
-ラズパイピコとpicorubyで忘れ物防止システムをつくったもの
+Raspberry Pi Pico WHとPicoRubyで忘れ物防止システムをつくった時の記録
